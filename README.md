@@ -3,12 +3,12 @@ This repository contains all the prompts used in the paper <a href="" target="_b
 
 ---
 
-Run `compose_prompt.py` to create a new prompt with the following arguments (in this order): 
-- the desired prompting strategy (cot, cot_plus, explicit, or implicit), 
-- a task type (label_ans, label_step, edit, solve), 
-- a dataset of origin for the few-shot examples (gsm8k, asdiv, aqua, prm800k), 
+Run `create_prompt.py` to create a new prompt with the following arguments (in this order): 
+- the desired prompting strategy (`cot`, `cot_plus`, `explicit`, or `implicit`), 
+- a task type (`label_ans`, `label_step`, `edit`, `solve`), 
+- a dataset of origin for the few-shot examples (`gsm8k`, `asdiv`, `aqua`, `prm800k`), 
 - a math reasoning question
-- a pre-generated step-by-step answer (optional, not needed for the *solve* task type).
+- a pre-generated step-by-step answer (optional, not needed for the `solve` task type).
 
 For example, to create and view a prompt for solving a given question using few-shot examples from the GSM8K dataset and the implicit learning prompting strategy, run:
 
