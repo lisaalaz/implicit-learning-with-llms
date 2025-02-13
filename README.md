@@ -23,13 +23,13 @@ For example, to create and view a prompt for solving a given question using few-
 If you use this repository, please cite our work:
 
 ````bibtex
-@misc{alazrakietal2025,
+@misc{alazraki2025llmsimplicitlylearnmistakes,
       title={LLMs can implicitly learn from mistakes in-context}, 
       author={Lisa Alazraki and Maximilian Mozes and Jon Ander Campos and Yi Chern Tan and Marek Rei and Max Bartolo},
       year={2025},
-      eprint={},
-      archivePrefix={},
-      primaryClass={},
-      url={}, 
+      eprint={2502.08550},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.08550}, 
 }
 ````
