@@ -1,5 +1,5 @@
 # LLMs can *implicitly* learn from mistakes in-context
-This repository contains all the prompts used in the paper <a href="" target="_blank">LLMs can *implicitly* learn from mistakes in-context</a>.
+This repository contains all the prompts used in the paper <a href="https://arxiv.org/abs/2502.08550" target="_blank">LLMs can *implicitly* learn from mistakes in-context</a>.
 
 ---
 
