@@ -1,5 +1,5 @@
-# LLMs can *implicitly* learn from mistakes in-context
-This repository contains all the prompts used in the paper <a href="https://arxiv.org/abs/2502.08550" target="_blank">LLMs can *implicitly* learn from mistakes in-context</a>.
+# No Need for Explanations: LLMs can *implicitly* learn from mistakes in-context
+This repository contains all the prompts used in the paper <a href="https://arxiv.org/abs/2502.08550" target="_blank">No Need for Explanations: LLMs can *implicitly* learn from mistakes in-context</a>.
 
 ---
 
@@ -24,8 +24,8 @@ If you use this repository, please cite our work:
 
 ````bibtex
 @misc{alazraki2025llmsimplicitlylearnmistakes,
-      title={LLMs can implicitly learn from mistakes in-context}, 
-      author={Lisa Alazraki and Maximilian Mozes and Jon Ander Campos and Yi Chern Tan and Marek Rei and Max Bartolo},
+      title={No Need for Explanations: LLMs can implicitly learn from mistakes in-context}, 
+      author={Lisa Alazraki and Maximilian Mozes and Jon Ander Campos and Tan Yi-Chern and Marek Rei and Max Bartolo},
       year={2025},
       eprint={2502.08550},
       archivePrefix={arXiv},
